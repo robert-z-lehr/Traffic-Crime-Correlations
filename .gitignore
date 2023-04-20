@@ -85,6 +85,9 @@ ipython_config.py
 config.py
 api_keys.py
 
+# CSV Files
+*.csv
+
 # pyenv
 .python-version
 
