@@ -1,6 +1,7 @@
 # Additional Files to ignore
 Crime_Reports.csv
 full_df.csv
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
